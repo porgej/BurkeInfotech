@@ -23,28 +23,28 @@ Burke Infotech is a tech consulting firm dedicated to delivering innovative solu
 
 ## 1. Niche and Services:
 
-## Cloud Adoption Consulting:
+### Cloud Adoption Consulting:
 Expert guidance on leveraging the full potential of Azure and AWS cloud solutions.
 Tailored strategies to optimize cloud resources for enhanced business outcomes.
 Holistic Cloud and Migration Solutions:
 
-## Cloud services encompassing migration and ongoing management
+### Cloud services encompassing migration and ongoing management
 Scalable solutions designed to align with your business goals and growth trajectory.
 Innovative Website Development:
 
-## Modern website development
+### Modern website development
 Customized solutions to elevate your online presence and user experience.
 Robotic Process Automation (RPA) Excellence:
 
-## Cloud RPA implementation
+### Cloud RPA implementation
 Precision automation solutions that enhance efficiency and productivity.
 Fortified Cloud Security Services:
 
-## Cloud security measures - integrity and confidentiality of digital assets
+### Cloud security measures - integrity and confidentiality of digital assets
 Proactive strategies to safeguard your cloud infrastructure against evolving cyber threats.
 Bespoke Cloud Training Programs:
 
-## Tailored cloud training programs 
+### Tailored cloud training programs 
 Dynamic workshops and hands-on sessions for skill enhancement and proficiency.
 
 ## 2. Market Research:
