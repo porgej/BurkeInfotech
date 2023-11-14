@@ -19,13 +19,7 @@ Burke Infotech is a tech consulting firm dedicated to delivering innovative solu
 - **Security Consulting:** Comprehensive solutions to safeguard your digital assets.
 - **Digital Transformation:** Guiding businesses through the process of digital evolution.
 
-## Getting Started
-If you're new to Burke Infotech or this repository, here's how you can get started:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/burke-infotech.git
-# Tech Consulting Business Starter Guide
+# Tech Consulting Business Starter
 
 ## 1. Define Your Niche and Services:
 
